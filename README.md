@@ -18,4 +18,4 @@ echo "Hola mundo"
 
 ![](./images/google.jpg)
 
-[1]: ./markdown.md
+[Enlace a la página creada]: ./markdown.md
